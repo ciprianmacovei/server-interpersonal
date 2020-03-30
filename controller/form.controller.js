@@ -25,3 +25,7 @@ exports.get_react_app = function(req, res) {
 exports.get_main_app = function(req, res) {
     res.sendFile(path.join(__dirname, '/public', 'index.html'))
 }
+
+exports.get_webdesign_page = function(req, res) {
+    res.sendFile(path.join(__dirname, '../public', 'webdesign.html'))
+}
