@@ -9,6 +9,7 @@ const port = process.env.PORT || 8000;
 
 app.use(express.static(path.join(__dirname, '/public')));
 app.use(express.static(path.join(__dirname, '/public/ReactApp')));
+app.use(express.static(path.join(__dirname, '/public/assets')));
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(bodyParser.json());
 
