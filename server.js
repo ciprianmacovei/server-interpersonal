@@ -7,10 +7,9 @@ const routes = require("./routes/app.routes.js");
 
 const port = process.env.PORT || 8000;
 
-app.use(express.static(path.join(__dirname, '/Formular/form/build')));
+app.use(express.static(path.join(__dirname, '/public')));
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(bodyParser.json());
-
 
 routes(app);
 
