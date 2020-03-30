@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dfd2c0ed-a35c-40aa-b0f1-ee038c4365ce" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Formular/form/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/Formular/form/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formular/form/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Formular/form/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formular/form/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/Formular/form/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formular/form/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/Formular/form/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formular/form/src/App.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/Formular/form/src/App.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formular/form/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Formular/form/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Formular/form/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Formular/form/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Formular/form" />
+  </component>
+  <component name="ProjectId" id="1ZjYwwQPCtulb24XNay1uQv3cp3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dfd2c0ed-a35c-40aa-b0f1-ee038c4365ce" name="Default Changelist" comment="" />
+      <created>1585354213082</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585354213082</updated>
+      <workItem from="1585354215739" duration="71000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

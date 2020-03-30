@@ -1,0 +1,82 @@
+/* TAGS */
+
+:root {
+  font-size: 1em;
+}
+#root{
+  background-image: url(./assets/images/earth.jpg);
+    background-size: cover;
+    background-position: center center;
+    position: relative;
+    top: 0;
+    bottom: 0;
+    height: 100vh;
+}
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+  :root{
+    font-size: 0.625em;
+  }
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+    :root{
+      font-size: 0.75em;
+    }
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+  :root{
+    font-size: 0.875em;
+  }
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+  :root{
+    font-size: 0.9375em;
+  }
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+  :root{
+    font-size: 1em;
+  }
+}
+
+/* CLASSE */
+
+.carousel-caption {
+  top: 55%;
+  transform: translateY(-50%);
+  bottom: initial;
+  -webkit-transform-style: preserve-3d;
+  -moz-transform-style: preserve-3d;
+  transform-style: preserve-3d;
+}
+.slide {
+  height: 100vh;
+  background-size: cover;
+}
+.row {
+  justify-content: center;
+  align-items: center;
+}
+.labelForm{
+  font-size: 1.75rem;
+}
+.descriptionSlide {
+  font-size: 2rem;
+}
+
+/* ID'S */
+
+#r12{
+  margin-bottom: 10%;
+}
+#r2{
+  margin-top: 10%;
+}
