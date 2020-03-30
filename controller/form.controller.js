@@ -19,7 +19,8 @@ exports.create_a_form = function(req, res) {
 
 
 exports.get_react_app = function(req, res) {
-    res.sendFile('./form.html');
+    console.log(path.join(__dirname, '/public/build', 'index.html'));
+    res.sendFile('/Users/macoveiciprian/Desktop/React Server/server-interpersonal/public/build/index.html');
 }
 
 exports.get_main_app = function(req, res) {
