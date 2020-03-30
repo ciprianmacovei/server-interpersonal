@@ -19,11 +19,11 @@ exports.create_a_form = function(req, res) {
 
 
 exports.get_react_app = function(req, res) {
-	 console.log("form app rendered");
-	 res.sendFile(path.join(__dirname, '/Formular/form/build', 'index.html'));
+    console.log("form app rendered");
+    res.sendFile(path.join(__dirname, '/public/form.index', 'form.html'));
 }
 
 exports.get_main_app = function(req, res) {
-   	console.log("main app rendered");
-	 res.sendFile(path.join(__dirname, '/MainApp/Pages', 'index.html'))
+    console.log("main app rendered");
+    res.sendFile(path.join(__dirname, '/public/index.html', 'index.html'))
 }
